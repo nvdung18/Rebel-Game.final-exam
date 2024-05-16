@@ -1,0 +1,5343 @@
+fileFormatVersion: 2
+guid: 14cbb872f15b4a94caa6233ec8af7a94
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2490
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e9ad6629de7f74588a885d0c15c750
+      internalID: -1909672350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2480
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da1b8dbfa7e984b9d0f1e0c3c5e2f4
+      internalID: -340045917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2396
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d31874aa23595340bf63e461daed0a5
+      internalID: 1735503491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2398
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29868234c02bc1b4cacaa3eb259b2285
+      internalID: 91669192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 2400
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3560f2ed30ab2ee4fb4d32dad523b178
+      internalID: -1218060030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2402
+        width: 48
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3f697689480e942bdd1c35cb58a4ab
+      internalID: -1059911851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_5
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2404
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d490820d4547f8141bd1d88016fb494a
+      internalID: 461795945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_6
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2406
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f66acc1186699488caa03986461e49
+      internalID: -677132874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_7
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2408
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76eb8145369619c418b53fce03177bbc
+      internalID: 1985718677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2410
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aa0c85819035641afef1c5c8e36b7c
+      internalID: -1921508642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2412
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c973019e6d71444aa5b28d2e5a9068
+      internalID: -2036824404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_10
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 2414
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b7ebb4effe35e4fa385a87b9547834
+      internalID: 1407132178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2416
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7da38f6c35ea9e43a8c873c984dd8b8
+      internalID: -355170444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_12
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 2419
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10798125abeec8a478f142eb9fd62297
+      internalID: 1994703269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2420
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dac699e3fddd5e4085bb1fc50d32a3b
+      internalID: -928326202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_14
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2422
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5d04f92107271439058936e2927d10
+      internalID: 1637165429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_15
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 2424
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b20ef8288a2bb4a858d8e0e24a62a3
+      internalID: -378223965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2426
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386e8280e87675641912b03ec7fb496e
+      internalID: 1891347144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_17
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 2428
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ed9fc49c5602b4db31679b0007db73
+      internalID: -334600300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_18
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 2430
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf334a415623af6449e6a4f2cfa50fd9
+      internalID: 401413810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_cannon_moving_19
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 2433
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b11e5230fcb138419d0af74723a0a73
+      internalID: 1473188858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2383
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc78a0aa02e30843b69285e96306d67
+      internalID: 1006681135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_22
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2304
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452fcf521bdd4544b59b60274075b10
+      internalID: 1403873418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2306
+        width: 55
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed35e5904f6afde46bdeaace9d1dcf48
+      internalID: 1276495445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_24
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2308
+        width: 49
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8c14626b5b8f4eb76424cb6173928
+      internalID: -1888048458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2310
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbc4b8135999c84b986f11352da9613
+      internalID: -1056266871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2312
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba83a70a0ef0ae4f86d9ae9ccf071d4
+      internalID: -1957917518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2314
+        width: 49
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cfab8bc9bee7545a1de0e4a6be6677
+      internalID: 378284640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2291
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db51d5312817a74ba7d9114c277c4d1
+      internalID: -154430418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_29
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2291
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ebf0fd76610734a934347c676d36a2
+      internalID: -736796232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2291
+        width: 31
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cba29ec21b607a408a6b69fcdd7f55f
+      internalID: -690436214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2225
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ec9e28b26de714b88b4b8e34aabcf6
+      internalID: 1984516650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2224
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d879eb5863930284484700f5882382ba
+      internalID: 1987973923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2224
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1c785305f63894287556debbff7c70
+      internalID: 1182631560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2224
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acfb216fe6badbc4d81527edaf4d3152
+      internalID: 736533639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2225
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f2b9ec55374dc4b9e6cbb4b8f95673
+      internalID: -1075102824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2222
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3cd784b5426624982bb5d66aed8205
+      internalID: 2003907724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2222
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f6371bc2d0583418d26bccd97ce234
+      internalID: -398411202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2222
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc571cafbebf69641974988de5aeaecc
+      internalID: -415448229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2222
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b3deabefa91b54ab5267877eb03046
+      internalID: 712228668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2153
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464c0513bfde6543868bc979ad78624
+      internalID: 316297733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca3830a700a8542a11fda2e0e59cdb
+      internalID: 247349090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120a616f4f6c5b84c8bd6a4d33614297
+      internalID: -1540265530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f007811cddc0a42b2c510abe9df0de
+      internalID: -639819298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ba37277f42edc4e8d39f99516c36cc
+      internalID: -1205632233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2154
+        width: 54
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d773933be48a65458d823c88c5de02c
+      internalID: 894331450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4e863cc4515894e89242992bee83dc
+      internalID: -738863666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_Low_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2153
+        width: 53
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f041116c0f277b243a2955b9cb924409
+      internalID: 460407064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_48
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2140
+        width: 42
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 057734b99c41a924f950b1335fa8e341
+      internalID: -1912436569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_49
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2140
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5851c6e29de795b4f9b7a80233372c72
+      internalID: -703483832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_50
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2140
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e77b209f12037842b4260e9f65d98dd
+      internalID: 1786959128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_51
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db319b63c192d24f8f9207be96ee06f
+      internalID: 303800901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2074
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6d4314e06cf494e8686fda968c13a3
+      internalID: 1075204461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2074
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280834ec195bea74baac019b84c1265e
+      internalID: -1096764132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2074
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd10ba13e2e4eb8488e041888a4b4810
+      internalID: -573103761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2074
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36354f630e9d894484c3d89bd00001b
+      internalID: 1518608448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2076
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7387221ea3b484881f583d3e690f78
+      internalID: 221446003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2075
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05daf8d8046aa74eaf27058ee2e65b2
+      internalID: -1982881121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_7
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 2076
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da7cc5b22d7c5e42b303c325a6f22fc
+      internalID: 1021476919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_8
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2076
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e665b4bd888d92449a759b7bf73252cf
+      internalID: -317604196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_9
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 2076
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71ba8905cb4eae44b68eb5485b050e8
+      internalID: -1074895851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2011
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3cc4ee308102644beea717055f2f51
+      internalID: -1618164183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2011
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d2f918c063fdc408cd817af2d823a6
+      internalID: -83926790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 2012
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cc3a5dd85c24c43a7deb738b1be655
+      internalID: -1643971585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 2011
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d1795f0b80554b9d91d320036cd0e
+      internalID: -202176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_14
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2011
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c496f0d67cfc674f95e691e771339a2
+      internalID: -857712873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_15
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 2011
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd42b671bc5ff0d4a80803b7eb676637
+      internalID: 1403948488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_16
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 2011
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99ae0bafa647d9408ba1739c2e4fe45
+      internalID: 1768444477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Firing_High_17
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2011
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db86782801dfa044799cd2dee8dfcae1
+      internalID: -433199500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_69
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1998
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1353a7a3cbe31f0458081533cf50c149
+      internalID: 724734036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_70
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1955
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee6a4c771d0e7c47bacd8f4192ffab7
+      internalID: 1262318779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1955
+        width: 37
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369d698fe922935448d6418f344558ef
+      internalID: 1609819022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_72
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1953
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe481f93b528ce41b67d71caaf1162a
+      internalID: 1451679540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1949
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28c3ced5f152734a9ba6be93abf8fa4
+      internalID: 47596235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_74
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1952
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138fd40e9481c614ab61993364af3bba
+      internalID: -1499869376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_75
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1954
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392c4b8c21eaa7448a0f5a267b7a9208
+      internalID: 631263682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_1.1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1934
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0ef4f61142cb342bffe9423f7c742f
+      internalID: 88725397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_1.2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1934
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27ce89285712a4aacc20875ccb47c7
+      internalID: -120964097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_1.3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1935
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd05b3c32db9f842b9d86c6305d223d
+      internalID: -305397730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_1.4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1936
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ae4503e1409f64d99b1b0c9a41a2b3
+      internalID: 1245829780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_1.5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1937
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cbb4ff8ee03d0409102dd85b008b7a
+      internalID: 793161766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_2.1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1922
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18836ec689a16a45b1d5d4a202af485
+      internalID: 744894643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_2.2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1922
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e38cff7ad02dd04b8e4a1fecf2b8d1b
+      internalID: 665542360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_2.3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1923
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1ff755e38c4cb4e84feda7013bd7ec
+      internalID: 2147481446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_2.4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1924
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6670ea69459d74b928b4dd28fbea34
+      internalID: -1141845391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_2.5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1925
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8bd3de7ada465449621588a4ba0a4b
+      internalID: -496950997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_3.1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1910
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349ccc4d766932e44aa245d77a77ecff
+      internalID: 142722675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_3.2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1910
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a69b352a857c824dbe0f85d33a792f6
+      internalID: -1006462776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_3.3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1911
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756def089bbed3748bba601957b76314
+      internalID: -1613542369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_3.4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1912
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977db8a261b5a0e4eb050a4cebef5c39
+      internalID: -1979049173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_NormalBullet_3.5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1913
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc53eb752525b74d936d82bd99471e8
+      internalID: -106153287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_91
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1897
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cde030bb7961842b8a633d5eb27609
+      internalID: -301315486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_92
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1897
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddaac38e86ef8d4bb72d77a52d38cc7
+      internalID: -1461047873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_93
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1897
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb44581cc976344bb2cc3b840e2a53b
+      internalID: 1469865040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1897
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd442b5ca8372e40a4e0996cd8511e2
+      internalID: -1393974688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_95
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1897
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0021c118256364bbe7f20a27448d3d
+      internalID: 339089987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1830
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08266da213bd9842846196f91857a4e
+      internalID: -839489357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1830
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c503443e4d51843bdbe06967fd25a9
+      internalID: 405897413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1761
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684fca65a5c4e1429b6fe00c565df8f
+      internalID: -1193652430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1777
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588172b5193217f429c95750b6489df2
+      internalID: 541930097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_4
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1761
+        width: 73
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11efb2afaab9064f94ae2c0daf13a90
+      internalID: -2042106656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1762
+        width: 76
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ec338251de87d41b11cbb699069fa9
+      internalID: -1902486973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1764
+        width: 90
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb42508f2cb169c4f93aa78d62350573
+      internalID: 1228089192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_7
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1762
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e46774cad4c634d892f858b62d7e3c
+      internalID: -648372007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1761
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c0a8424a9ec1c4e9a4d14606567202
+      internalID: -270682263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1761
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f43118e3b8ea544bb329d1c026b565
+      internalID: 1792067848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_10
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1763
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a07ad3621a03f84196ef07d3e282729
+      internalID: 1826403076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_11
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1763
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33ea4ef006429b4fb782c5b18f2dc2b
+      internalID: 1334178332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_12
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 1764
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0709961c974344194ce3f1d0e79087
+      internalID: 252366226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_109
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1748
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1342edfce1f6094086df4fd12b824c1
+      internalID: 1288469884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1716
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa46df9189f049f4fb89d4a0acf4749a
+      internalID: 926529443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1710
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8b844a2853f54eb01b7640cf0d244
+      internalID: 693741206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1706
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0727bc748daa67742b41cf733ef7d1e2
+      internalID: 303171153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1702
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f468ae4b89d9345b04e48f1c4c601b
+      internalID: -727142905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_move_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1671
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e7f34e8f2617a4db27c59cf198e87a
+      internalID: -255380670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_move_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1671
+        width: 73
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248aa863b3d029340bf18a492943f7a7
+      internalID: -52837333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_move_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1671
+        width: 64
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93a99d02546c75419d933e4daba0109
+      internalID: -2080222987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_Low_sfx_move_4
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1671
+        width: 61
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7747a4d30f7f847b416ce38f84d739
+      internalID: -974147673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_118
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1658
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449d763f2c59fac4f89d5243852eec8e
+      internalID: -1770917851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_119
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1658
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef94f703c1d504ea77da3d5efb9f0b
+      internalID: 919195184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_120
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1658
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b7633a38c6be04d840fb00ddf5fdfb
+      internalID: 1875583030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_121
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1658
+        width: 29
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550275d448146a844b5b6a0284e3476b
+      internalID: 1766324969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_122
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1658
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42c6ffd0b856d347a8221fb09a36390
+      internalID: -1906160288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1610
+        width: 48
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3fedba7a4d9e9479d7ff68ab438a2c
+      internalID: 139550600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1610
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2c3ca1c0096a2438f6d5e44c000411
+      internalID: -1640723630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1559
+        width: 68
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c28c3dee5f684abd147a1534dc3c1
+      internalID: 413574850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1559
+        width: 84
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0260bb5b7a2e4aabbeadc9853461b
+      internalID: 929856528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1560
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda35c897e6624746b62aac9f936db92
+      internalID: -485954758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1561
+        width: 89
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915154080333f3241ad77bb84c341b23
+      internalID: 1362617812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_7
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1560
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d4be608f46914cb41439f91f19d64
+      internalID: -1957810197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_8
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1559
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ed0ad483ace9f49bc460ab06199d54
+      internalID: -463611126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_9
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1560
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb8c1708dac3134492d4f939f4264b5
+      internalID: 2020325825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_10
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1562
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242f3290deac07942bb54f21ffd81f28
+      internalID: -2112662438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_11
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1562
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72f0bbb4f5d2c2448c522342a80db13
+      internalID: 632633268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_12
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1563
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e533292043e6e41b4079099c8efa40
+      internalID: -649468560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_135
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1546
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb76b114fc3f024087965c3afb43b3f
+      internalID: 1174324842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1514
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8ae080cbb061c4598e97655f774372
+      internalID: -1040996609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_2
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1508
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9b17ea67c21f244b7b928894fe64af
+      internalID: 2030828796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1504
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ec42200428e2744b91581fdafac473
+      internalID: 723143874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1500
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5e5925b8736704ebb77ecba97a5344
+      internalID: 1700176186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1452
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec74a3fef47364eb88c0e2d183f102
+      internalID: -151709573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1448
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e821fe31b12ef4bbd39e979d0a6280
+      internalID: 210124448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1444
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2581dce9747e00344a41d5d0b49c8f0c
+      internalID: -1178035198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1438
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a49f2fc044e7c44f8ba22dfba3d8749
+      internalID: 1260082724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1440
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5be477474b758c49b9b2a5cd4e6509b
+      internalID: -1471603565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1442
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b7be9b73fa718458093d2143b346cf
+      internalID: -515863233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_11
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1444
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ddf363ab5fb4f469f0e3342013e207
+      internalID: 1275987504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 1446
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86d260dd8d66ab42a9312e9866fc67d
+      internalID: -674314858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_13
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1448
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c5c2f1289a2c49a973f0d943e632f
+      internalID: -2059901759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1450
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200d06216ad052a4eb010366e732ab67
+      internalID: 2063569396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1448
+        width: 42
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8dc6c71c0faa479d288b40d6076fd
+      internalID: -750622422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1446
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aaade53c7011ce4b96d0926b8959915
+      internalID: -1040991552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_175
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1444
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b44ec6c30034f47ad895c63c74b2c3
+      internalID: 1300971585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_18
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1442
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b742f58a8751e6f4485162c5d91a0be8
+      internalID: 82879374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_19
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1440
+        width: 55
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c97d8805d1e7d640a894aea9cb35bee
+      internalID: 494418554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1372
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556e03a0569c0b64aad9f9fbe8ba7ab5
+      internalID: -725561928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_21
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1374
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff3dac5da122d04db7502491965a42e
+      internalID: 1872467705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1335
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ead643ab650354c8f0fcc0e7643d51
+      internalID: -1368066748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1337
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12e101d206606d468c0d3cbaf76f036
+      internalID: 307983914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1304
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9e95c91989bcb4ca0814dfc25474f7
+      internalID: -1035096986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1305
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f64cf56be2b5b4a9e454099ba9da15
+      internalID: 1550686208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_5
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1307
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5d7027ec6a11242bc9768fbd6f4107
+      internalID: -1837806150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_6
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1309
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9093de2aaf3666a469414a173cf97f2f
+      internalID: -1421560430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_7
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1310
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c18c0684749a04eab5587946fa3818
+      internalID: 976879451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1310
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419b4bdf2d8203499fa38b9c6ffacf2
+      internalID: -1567729994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1311
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e3afd3b01c0fe419db38b28600177b
+      internalID: 980474664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Laser_High_sfx_move_10
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1312
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b10c9115006ee14d87c34871f193b39
+      internalID: 1104177528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_167
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1251
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792f89c77028144dba746999f80af77
+      internalID: -1141401590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_168
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1251
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffd38274f609764fb0fc1bd3a850687
+      internalID: 224352673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_169
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1251
+        width: 65
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1bb0a96113010459172f37fe792986
+      internalID: -753558899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_170
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1251
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6007a4a1038f6a34ca28062ad168f18b
+      internalID: -1454332577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_171
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1251
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4f1ac3f63c5704492b5e706b47cab3
+      internalID: 310469953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_172
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1251
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62aa556421728c4592540ae362fd9f4
+      internalID: 405280207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_173
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1238
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717279c8ef6754b4abad4e8f3ea286f4
+      internalID: -1584945140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_174
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1192
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffa1034f8c4e2249ac8d1b66a383643
+      internalID: 2105714350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_175
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1179
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de71ae1bb602604598113212bee989c
+      internalID: -1636389610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1077
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563542d4c09361c4d9f0cd1282d5d9ef
+      internalID: -231020308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 970
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7120d0bc9a2245b479419334a99362a6
+      internalID: 1449577779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 970
+        width: 80
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22130999f7cf8a54db2fb496648a30b7
+      internalID: 200510794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 977
+        width: 83
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc0f8e9c4aa1141af2200164e12964
+      internalID: -1860889714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 984
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8904cb90fe0a0bc4bb4a016a5db680ed
+      internalID: 494047941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 987
+        width: 93
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918689debfdb2214da7995eb15464828
+      internalID: 668447710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 990
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6fec6fd94b00a47944bf8437c2d45a
+      internalID: -903732954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_8
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 994
+        width: 94
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa74ba33eb2c4e47bf5efcbf2187f92
+      internalID: -1115953254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_9
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1005
+        width: 98
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43de061077d63c4d870e04889f24315
+      internalID: 1696673214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1009
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d63aa3aadf57f847a059d18c473fa36
+      internalID: 1837636789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1002
+        width: 95
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bd2702744785b4f87a500afee81a54
+      internalID: -1641885396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_12
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1011
+        width: 104
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cc702064141a944bccc0fa07c2a919
+      internalID: 248189191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_13
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1018
+        width: 116
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4ba0853acd9a74fac9740134ae7ae2
+      internalID: -453465759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_14
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1006
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57cac91523f48754d959a848c2a6e2c7
+      internalID: 638885662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_15
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1015
+        width: 102
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b805f1b3aa7704aac7a3444b4af2f2
+      internalID: 1713204703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_CoverCloth_16
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1010
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0fbd19426e6514db2676c36fae96a5
+      internalID: 1746738157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_192
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 957
+        width: 70
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6491a2c32387ad64a9840deb6ff2c689
+      internalID: 529653224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_193
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 957
+        width: 73
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc58f36eb8f86b44bd1b1a72e5f4ea0
+      internalID: 313949901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_main
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 664
+        width: 384
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6799afd83bb759b45b40dcd774956d32
+      internalID: -1787988629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 919
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa7047a25472914e954c7f7fbe2bcbb
+      internalID: -1320007803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_196
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 690
+        width: 384
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a918913b7ae114ebc48e5ff01048f9
+      internalID: -1748482606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_2
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 876
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f51bb932cbf03499952b40ad538f5f
+      internalID: 838010702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 880
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce649120f9397044a226035797ad992
+      internalID: -746541479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_1
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 837
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65371c6f72a6b8d4a8ef9c8a0ceb54a7
+      internalID: -820798173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 837
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f2bfc8f37b8214eb27c8aab9a93594
+      internalID: 333340026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 837
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abb684db8db53e4da942b6a6c6b940c
+      internalID: -443368230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_4
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 836
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab77534053e0dc48bed1993119561dc
+      internalID: -1382071182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_5
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 836
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f84681391debf34ea65ea5d79f37b8e
+      internalID: 378178415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 836
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e2f1c4c47c72a44bf5f0a2f2715530
+      internalID: -1294713179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_soldier_controll_7
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 836
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634f65f5d429b70419361b78471e1171
+      internalID: -2080292870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_body_187
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 768
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cd995695a8eeb4d877e54e97517023
+      internalID: -472644640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_207
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 723
+        width: 64
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c81916274865d44b999aca33ba32af
+      internalID: -1213285834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_208
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b439227add0986042bd79a603cd3cae1
+      internalID: -1082865861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_209
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ba26e3b04bca478856265ff5222a1
+      internalID: -1507562360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_210
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 574
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f1462eeb1e1a14a97d9dc7b3245d0b
+      internalID: 71360445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_211
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ad3fcac9f12b40ad620e141cb4dd3
+      internalID: 734901377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_212
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27f2c3a82a593047a2cb0cd1f25b43a
+      internalID: 1763806259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_213
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484dbfc5385bbe4449bbe8b9c52c6776
+      internalID: 1920811151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_214
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 574
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b73497e62847d4da132ff901658967
+      internalID: -652085284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_215
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 574
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a58b72647f12846bc5c533f9eaac4f
+      internalID: 1535949989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_216
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 561
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4845d79fa1000534d81b819ed4331da1
+      internalID: -719308206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_217
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507e01533b5d3f8469944dc6598df13f
+      internalID: 688529465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_218
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c76ba6eafb9b449b572327bcd43932
+      internalID: -1234238522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_219
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4286e99be2e3e54c891ab08aaeb9852
+      internalID: -2100754213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_220
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c589d4261a6f85d46b46496e539c6b30
+      internalID: 1742544806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_221
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80fb1baee6c270468b5e2d9d77b0c76
+      internalID: -443200770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_222
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 524
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd11018b747bc4b90ed83dc496dd8e
+      internalID: 1664812421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_223
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2764e5a6c4aeae848b8d7e1b3cf60cd8
+      internalID: 835349053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_224
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 524
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab409c9bf72db1146b6a80bc70d0d12f
+      internalID: -900110444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_225
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 511
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201a3e559efc0284a96a8e224d3bb9fc
+      internalID: -1527786563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_226
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 458
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6530b1e461b6ad43973a316d4f0c891
+      internalID: -1050707980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_body187_destroy
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 410
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3683d03aa353e7f43a850624db9ab85b
+      internalID: -1843936049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_228
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 397
+        width: 72
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd15e475f9d33459ed4633bc0841b1
+      internalID: 1644310542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Die_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 104
+        width: 384
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b8bb3e9cec1ce44951a5034df25541
+      internalID: 1962674879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Die_2
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 104
+        width: 384
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d751313caeace04d9a0c149fea2d32b
+      internalID: 1572835867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Die_3
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 104
+        width: 385
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a31ca163d42d554e94086b3ccd24bff
+      internalID: 20116985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Die_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 104
+        width: 327
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344afa76934815f439cec7f3b2de428a
+      internalID: -168925062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_Die_5
+      rect:
+        serializedVersion: 2
+        x: 1535
+        y: 104
+        width: 286
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd462c04f0fba941a16b7b4fb76feb3
+      internalID: -1369807290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_destroy_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fe49cb9c9377446b15ff953cd8c5b6
+      internalID: 2016019092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_destroy_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23655fee7adf86e458b9432651a46e27
+      internalID: -1242822711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tetsuyuki_propeller_destroy_3
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 28
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56403c55ed0af8644aa0d2e3002d90cb
+      internalID: -2037563669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tetsuyuki_1: -340045917
+      Tetsuyuki_109: 1288469884
+      Tetsuyuki_118: -1770917851
+      Tetsuyuki_119: 919195184
+      Tetsuyuki_120: 1875583030
+      Tetsuyuki_121: 1766324969
+      Tetsuyuki_122: -1906160288
+      Tetsuyuki_135: 1174324842
+      Tetsuyuki_167: -1141401590
+      Tetsuyuki_168: 224352673
+      Tetsuyuki_169: -753558899
+      Tetsuyuki_170: -1454332577
+      Tetsuyuki_171: 310469953
+      Tetsuyuki_172: 405280207
+      Tetsuyuki_173: -1584945140
+      Tetsuyuki_174: 2105714350
+      Tetsuyuki_175: -1636389610
+      Tetsuyuki_192: 529653224
+      Tetsuyuki_193: 313949901
+      Tetsuyuki_196: 838010702
+      Tetsuyuki_207: -1082865861
+      Tetsuyuki_208: -1507562360
+      Tetsuyuki_209: 1006681135
+      Tetsuyuki_21: 71360445
+      Tetsuyuki_210: 734901377
+      Tetsuyuki_211: 1763806259
+      Tetsuyuki_212: 1920811151
+      Tetsuyuki_213: -652085284
+      Tetsuyuki_214: 1535949989
+      Tetsuyuki_215: -719308206
+      Tetsuyuki_216: 688529465
+      Tetsuyuki_217: -1234238522
+      Tetsuyuki_218: -2100754213
+      Tetsuyuki_219: 1403873418
+      Tetsuyuki_22: 1742544806
+      Tetsuyuki_220: -443200770
+      Tetsuyuki_221: 1664812421
+      Tetsuyuki_222: 835349053
+      Tetsuyuki_223: -900110444
+      Tetsuyuki_224: -1527786563
+      Tetsuyuki_225: -1050707980
+      Tetsuyuki_226: -1843936049
+      Tetsuyuki_228: 1962674879
+      Tetsuyuki_23: 1572835867
+      Tetsuyuki_233: -1369807290
+      Tetsuyuki_236: -1242822711
+      Tetsuyuki_24: -1056266871
+      Tetsuyuki_25: -1957917518
+      Tetsuyuki_26: 378284640
+      Tetsuyuki_27: -154430418
+      Tetsuyuki_28: -736796232
+      Tetsuyuki_29: 91669192
+      Tetsuyuki_30: 1984516650
+      Tetsuyuki_48: -703483832
+      Tetsuyuki_49: -1059911851
+      Tetsuyuki_50: 303800901
+      Tetsuyuki_51: 1075204461
+      Tetsuyuki_69: -677132874
+      Tetsuyuki_70: 1609819022
+      Tetsuyuki_71: 1451679540
+      Tetsuyuki_72: 47596235
+      Tetsuyuki_73: -1499869376
+      Tetsuyuki_74: 631263682
+      Tetsuyuki_75: 88725397
+      Tetsuyuki_91: -1461047873
+      Tetsuyuki_92: 1469865040
+      Tetsuyuki_93: -1393974688
+      Tetsuyuki_94: 339089987
+      Tetsuyuki_95: -839489357
+      Tetsuyuki_99: 1735503491
+      Tetsuyuki_CoverCloth_1: -231020308
+      Tetsuyuki_CoverCloth_10: 1837636789
+      Tetsuyuki_CoverCloth_11: -1641885396
+      Tetsuyuki_CoverCloth_12: 248189191
+      Tetsuyuki_CoverCloth_13: -453465759
+      Tetsuyuki_CoverCloth_14: 638885662
+      Tetsuyuki_CoverCloth_15: 1713204703
+      Tetsuyuki_CoverCloth_16: 1746738157
+      Tetsuyuki_CoverCloth_2: 1449577779
+      Tetsuyuki_CoverCloth_3: 200510794
+      Tetsuyuki_CoverCloth_4: -1860889714
+      Tetsuyuki_CoverCloth_5: 494047941
+      Tetsuyuki_CoverCloth_6: 668447710
+      Tetsuyuki_CoverCloth_7: -903732954
+      Tetsuyuki_CoverCloth_8: -1115953254
+      Tetsuyuki_CoverCloth_9: 1696673214
+      Tetsuyuki_Die_1: 1962674879
+      Tetsuyuki_Die_2: 1572835867
+      Tetsuyuki_Die_3: 20116985
+      Tetsuyuki_Die_4: -168925062
+      Tetsuyuki_Die_5: -1369807290
+      Tetsuyuki_Firing_High_1: 1075204461
+      Tetsuyuki_Firing_High_10: -1618164183
+      Tetsuyuki_Firing_High_11: -83926790
+      Tetsuyuki_Firing_High_12: -1643971585
+      Tetsuyuki_Firing_High_13: -202176929
+      Tetsuyuki_Firing_High_14: -857712873
+      Tetsuyuki_Firing_High_15: 1403948488
+      Tetsuyuki_Firing_High_16: 1768444477
+      Tetsuyuki_Firing_High_17: -433199500
+      Tetsuyuki_Firing_High_2: -1096764132
+      Tetsuyuki_Firing_High_3: -573103761
+      Tetsuyuki_Firing_High_4: 1518608448
+      Tetsuyuki_Firing_High_5: 221446003
+      Tetsuyuki_Firing_High_6: -1982881121
+      Tetsuyuki_Firing_High_7: 1021476919
+      Tetsuyuki_Firing_High_8: -317604196
+      Tetsuyuki_Firing_High_9: -1074895851
+      Tetsuyuki_Firing_Low_1: 1984516650
+      Tetsuyuki_Firing_Low_10: 316297733
+      Tetsuyuki_Firing_Low_11: 247349090
+      Tetsuyuki_Firing_Low_12: -1540265530
+      Tetsuyuki_Firing_Low_13: -639819298
+      Tetsuyuki_Firing_Low_14: -1205632233
+      Tetsuyuki_Firing_Low_15: 894331450
+      Tetsuyuki_Firing_Low_16: -738863666
+      Tetsuyuki_Firing_Low_17: 460407064
+      Tetsuyuki_Firing_Low_2: 1987973923
+      Tetsuyuki_Firing_Low_3: 1182631560
+      Tetsuyuki_Firing_Low_4: 736533639
+      Tetsuyuki_Firing_Low_5: -1075102824
+      Tetsuyuki_Firing_Low_6: 2003907724
+      Tetsuyuki_Firing_Low_7: -398411202
+      Tetsuyuki_Firing_Low_8: -415448229
+      Tetsuyuki_Firing_Low_9: 712228668
+      Tetsuyuki_Laser_High_1: -1640723630
+      Tetsuyuki_Laser_High_10: -2112662438
+      Tetsuyuki_Laser_High_11: 632633268
+      Tetsuyuki_Laser_High_12: -649468560
+      Tetsuyuki_Laser_High_2: 139550600
+      Tetsuyuki_Laser_High_3: 413574850
+      Tetsuyuki_Laser_High_4: 929856528
+      Tetsuyuki_Laser_High_5: -485954758
+      Tetsuyuki_Laser_High_6: 1362617812
+      Tetsuyuki_Laser_High_7: -1957810197
+      Tetsuyuki_Laser_High_8: -463611126
+      Tetsuyuki_Laser_High_9: 2020325825
+      Tetsuyuki_Laser_High_sfx_1: -1040996609
+      Tetsuyuki_Laser_High_sfx_10: -515863233
+      Tetsuyuki_Laser_High_sfx_11: 1275987504
+      Tetsuyuki_Laser_High_sfx_12: -674314858
+      Tetsuyuki_Laser_High_sfx_13: -2059901759
+      Tetsuyuki_Laser_High_sfx_14: 2063569396
+      Tetsuyuki_Laser_High_sfx_15: -750622422
+      Tetsuyuki_Laser_High_sfx_16: -1040991552
+      Tetsuyuki_Laser_High_sfx_17: -1909672350
+      Tetsuyuki_Laser_High_sfx_175: 1300971585
+      Tetsuyuki_Laser_High_sfx_18: 82879374
+      Tetsuyuki_Laser_High_sfx_19: 494418554
+      Tetsuyuki_Laser_High_sfx_2: 2030828796
+      Tetsuyuki_Laser_High_sfx_20: -725561928
+      Tetsuyuki_Laser_High_sfx_21: 1872467705
+      Tetsuyuki_Laser_High_sfx_3: 723143874
+      Tetsuyuki_Laser_High_sfx_4: 1700176186
+      Tetsuyuki_Laser_High_sfx_5: -151709573
+      Tetsuyuki_Laser_High_sfx_6: 210124448
+      Tetsuyuki_Laser_High_sfx_7: -1178035198
+      Tetsuyuki_Laser_High_sfx_8: 1260082724
+      Tetsuyuki_Laser_High_sfx_9: -1471603565
+      Tetsuyuki_Laser_High_sfx_move_1: -1368066748
+      Tetsuyuki_Laser_High_sfx_move_10: 1104177528
+      Tetsuyuki_Laser_High_sfx_move_2: 307983914
+      Tetsuyuki_Laser_High_sfx_move_3: -1035096986
+      Tetsuyuki_Laser_High_sfx_move_4: 1550686208
+      Tetsuyuki_Laser_High_sfx_move_5: -1837806150
+      Tetsuyuki_Laser_High_sfx_move_6: -1421560430
+      Tetsuyuki_Laser_High_sfx_move_7: 976879451
+      Tetsuyuki_Laser_High_sfx_move_8: -1567729994
+      Tetsuyuki_Laser_High_sfx_move_9: 980474664
+      Tetsuyuki_Laser_Low_1: 405897413
+      Tetsuyuki_Laser_Low_10: 1826403076
+      Tetsuyuki_Laser_Low_11: 1334178332
+      Tetsuyuki_Laser_Low_12: 252366226
+      Tetsuyuki_Laser_Low_2: -839489357
+      Tetsuyuki_Laser_Low_3: -1193652430
+      Tetsuyuki_Laser_Low_4: -2042106656
+      Tetsuyuki_Laser_Low_5: -1902486973
+      Tetsuyuki_Laser_Low_6: 1228089192
+      Tetsuyuki_Laser_Low_7: -648372007
+      Tetsuyuki_Laser_Low_8: -270682263
+      Tetsuyuki_Laser_Low_9: 1792067848
+      Tetsuyuki_Laser_Low_sfx_1: 926529443
+      Tetsuyuki_Laser_Low_sfx_2: 693741206
+      Tetsuyuki_Laser_Low_sfx_3: 303171153
+      Tetsuyuki_Laser_Low_sfx_4: -727142905
+      Tetsuyuki_Laser_Low_sfx_move_1: -255380670
+      Tetsuyuki_Laser_Low_sfx_move_2: -52837333
+      Tetsuyuki_Laser_Low_sfx_move_3: -2080222987
+      Tetsuyuki_Laser_Low_sfx_move_4: -974147673
+      Tetsuyuki_NormalBullet_1.1: 88725397
+      Tetsuyuki_NormalBullet_1.2: -120964097
+      Tetsuyuki_NormalBullet_1.3: -305397730
+      Tetsuyuki_NormalBullet_1.4: 1245829780
+      Tetsuyuki_NormalBullet_1.5: 793161766
+      Tetsuyuki_NormalBullet_2.1: 744894643
+      Tetsuyuki_NormalBullet_2.2: 665542360
+      Tetsuyuki_NormalBullet_2.3: 2147481446
+      Tetsuyuki_NormalBullet_2.4: -1141845391
+      Tetsuyuki_NormalBullet_2.5: -496950997
+      Tetsuyuki_NormalBullet_3.1: 142722675
+      Tetsuyuki_NormalBullet_3.2: -1006462776
+      Tetsuyuki_NormalBullet_3.3: -1613542369
+      Tetsuyuki_NormalBullet_3.4: -1979049173
+      Tetsuyuki_NormalBullet_3.5: -106153287
+      Tetsuyuki_body187_destroy: -1843936049
+      Tetsuyuki_body_187: -472644640
+      Tetsuyuki_cannon_moving_1: -1787988629
+      Tetsuyuki_cannon_moving_10: 1407132178
+      Tetsuyuki_cannon_moving_11: -355170444
+      Tetsuyuki_cannon_moving_12: 1994703269
+      Tetsuyuki_cannon_moving_13: -928326202
+      Tetsuyuki_cannon_moving_14: 1637165429
+      Tetsuyuki_cannon_moving_15: -378223965
+      Tetsuyuki_cannon_moving_16: 1891347144
+      Tetsuyuki_cannon_moving_17: -334600300
+      Tetsuyuki_cannon_moving_18: 401413810
+      Tetsuyuki_cannon_moving_19: 1473188858
+      Tetsuyuki_cannon_moving_2: 91669192
+      Tetsuyuki_cannon_moving_3: -1218060030
+      Tetsuyuki_cannon_moving_4: -1059911851
+      Tetsuyuki_cannon_moving_5: 461795945
+      Tetsuyuki_cannon_moving_6: -677132874
+      Tetsuyuki_cannon_moving_7: 1985718677
+      Tetsuyuki_cannon_moving_8: -1921508642
+      Tetsuyuki_cannon_moving_9: -2036824404
+      Tetsuyuki_main: -1320007803
+      Tetsuyuki_propeller_1: -1320007803
+      Tetsuyuki_propeller_2: 838010702
+      Tetsuyuki_propeller_3: -746541479
+      Tetsuyuki_propeller_destroy_1: 2016019092
+      Tetsuyuki_propeller_destroy_2: -1242822711
+      Tetsuyuki_propeller_destroy_3: -2037563669
+      Tetsuyuki_soldier_controll_1: -820798173
+      Tetsuyuki_soldier_controll_2: 333340026
+      Tetsuyuki_soldier_controll_3: -443368230
+      Tetsuyuki_soldier_controll_4: -1382071182
+      Tetsuyuki_soldier_controll_5: 378178415
+      Tetsuyuki_soldier_controll_6: -1294713179
+      Tetsuyuki_soldier_controll_7: -2080292870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

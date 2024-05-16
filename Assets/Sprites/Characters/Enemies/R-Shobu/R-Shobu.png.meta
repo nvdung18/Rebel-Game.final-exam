@@ -1,0 +1,2695 @@
+fileFormatVersion: 2
+guid: 8363bf857e3617c47a0446ac88f22bbb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: R-Shobu_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 747
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488b50812b3ea5746b02335a5ecffc48
+      internalID: 882100349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 747
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92588a6fee0b31a4cad96b35c02a0766
+      internalID: -1112074629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 691
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652b5b665f6f55149ab02c1df03c4dd5
+      internalID: -291343423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_3
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 692
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd24bc81b7c678449adc1c678dc5db7
+      internalID: -541867838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_4
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 690
+        width: 89
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f5d58771723b2428a0b18c73b7e169
+      internalID: 225434467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_5
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 688
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bd62fd3e45e19419de1e27419f627f
+      internalID: -825892298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 686
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ecf3f8d2e20643bf05522fa93ce6c
+      internalID: 968247692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 690
+        width: 89
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aea3c217714bf4997790e27050ddca
+      internalID: 421637735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 692
+        width: 89
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e38e7e84146d674da37dd8df2816842
+      internalID: 1072494416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 667
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dd776003587d640a41b81b417af7f0
+      internalID: 1752492643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 605
+        width: 84
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc9f981f8d546e409824d22783f9ef3
+      internalID: -1521272031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_11
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 606
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b269126278a9a458b060d2ea403592
+      internalID: -923244949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_12
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 606
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920c4906e600614d9bbde19eb30416d
+      internalID: -328753921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 606
+        width: 71
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37f5626bcf709c41ba1afe61eec1c58
+      internalID: -60392460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 606
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fce20de11cc8445b665cb49c8cbf7b
+      internalID: 1233059462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 606
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30796af97a234814ebbaa31965ac5ac4
+      internalID: -857761040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 606
+        width: 71
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c48f368f7deb4dbae5ba71515ad94
+      internalID: 1288944499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 586
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9163f8023f9b95445ad34d4742ae83f7
+      internalID: -2053812997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 586
+        width: 66
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14b259ce56860644b3b623a287f6955
+      internalID: 461243751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 572
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52913775ecb0ba54686c09beb83300e6
+      internalID: 2080588458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 570
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ecfc1999ffb4d4a9a4acf10a579239
+      internalID: -1666298643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_21
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 566
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeaf996007c77d48a8b2ff9b640e023
+      internalID: 1076540821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 562
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7daaa584115f24f8299d12facc77fb
+      internalID: 1909049218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 559
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d9b466d0d709e40aee190892a44d26
+      internalID: -1706330785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 560
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c112c6d4f42b1bb4f8266e8088db53f5
+      internalID: -312683104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_25
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 562
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82252a1b0b83a0c4e850ae754079010c
+      internalID: -751450918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 561
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4183c5b98de49ea4c86022ac4f70033a
+      internalID: -1198062636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_27
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 561
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41770f1b180450441814ea8335e855ba
+      internalID: -111318893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_28
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 560
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b98bc1c02a4ef4db2c737b11409713
+      internalID: 520878144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 562
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d701e1b2de7d34489eb9353b731575
+      internalID: -1804270318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_30
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 560
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83be31d4ddc8a14fb6254cbd87f9759
+      internalID: 81540525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_31
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 559
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca124776c7ea483488c01d8743b7ca76
+      internalID: 134943388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_32
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 558
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644de1e79af73644e953587f5a71c815
+      internalID: -1193119100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_33
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 544
+        width: 61
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cd2c1440173ad4bb7a60504a5c30c8
+      internalID: 72639619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_34
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 544
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177b578524b495144b1a1401ba7130f2
+      internalID: -449750608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 544
+        width: 41
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292d99c25bdf1274e96ba28dc4929cb9
+      internalID: -192725467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 519
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e0c45cb54233444b896c15f6a626db
+      internalID: -107985011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 519
+        width: 77
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd30104f2cb42245a78c143e19c2810
+      internalID: 5619284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 518
+        width: 68
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779a50e182b1e7b4196c8588e3bd3eb2
+      internalID: 333654624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 518
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab75b000f92919041b09bd15e41644c4
+      internalID: -1472771178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 516
+        width: 78
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143fccd45b8fb21498d9a03dd6ee0d8c
+      internalID: 182944432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_45
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 496
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ec5185c5944d24f980f7767f4a6c26
+      internalID: -1963488534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_46
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 494
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab6a3004d979a84d999bb4acc8c98ce
+      internalID: -27508644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_47
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 493
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24747aa6845a79b4e93cc4dc4e69d420
+      internalID: 1152153856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_49
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 490
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6691e8dacb50b42bfa0febace6fab3
+      internalID: 404763390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_50
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 489
+        width: 75
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593d88d704669764a812c062ce4813b8
+      internalID: -466631865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_56
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 467
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de54d1dc5170ff41b1b2f8ae7817478
+      internalID: 1547266039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_57
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 467
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37800c104a9b6614f92c4ff053bee7da
+      internalID: 158540701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_60
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 465
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d34ff30645d6248aeff53d4e969d9e
+      internalID: 1835175475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_62
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 467
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064f0c075df1cea4dab5af4baf4011e2
+      internalID: 65260310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_63
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 465
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64ce3580c2e802488dded8ed7d392af
+      internalID: 623802743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_66
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 446
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff0af242e1a6214aaf60bb34f61d66d
+      internalID: 1481360370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_67
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 445
+        width: 68
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83db6c9dd35e2e4689d4bf77681603f
+      internalID: -1774434201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 446
+        width: 60
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdbc3c58d1bf747b267b304ae0dadf
+      internalID: -1135025597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 445
+        width: 75
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f13b79a3957be44b1f092b77a2f438
+      internalID: 489153430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_70
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 444
+        width: 80
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4244d79cb9d4f41a19859051ad3b69
+      internalID: -1592983229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_71
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 418
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3106ecf7dcfa1488174998ec397414
+      internalID: 472207752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_72
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 420
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf9dd315360ee942b6e681a1ee13b5a
+      internalID: 821756608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_73
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 418
+        width: 80
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db32d5cc8e5654b8989d8eb369ef88
+      internalID: -2043397031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_74
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 417
+        width: 61
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10822c0068bab3459905ddab0ca43f7
+      internalID: 1491870206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_75
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 420
+        width: 62
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b05b2a2bc75d4e4eb5e24ba59aa4481
+      internalID: 9805439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_76
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 392
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e950104cdadd4ca687434827e2eb5
+      internalID: 1922659246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_77
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 394
+        width: 80
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae2c34b37d5fa498ae5c1927706a65
+      internalID: 601702268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_78
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 396
+        width: 79
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a3fe30d0b873f459e71f6a99033f8c
+      internalID: -713896311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_79
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 395
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d8007bf626bed4d865c2a2727ce8b9
+      internalID: 508426156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_80
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 397
+        width: 74
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ab399816494924bbc1e78eae32bc4c
+      internalID: 1290037142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 358
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9420ea7025fc70748bac7831c14ea629
+      internalID: 1290890683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_82
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 361
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4626e3c2641b74d4cbc332ce24189919
+      internalID: -1970631972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 363
+        width: 72
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d251047baa41c44a9c9451288021de
+      internalID: -1749609201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_84
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 366
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4a0ff3325c916419190a51fb5cd636
+      internalID: -944188057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 370
+        width: 77
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a221ddcc34575c4fa41662806d0eae8
+      internalID: 1453092335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_86
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 339
+        width: 97
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36056fa038d5104e823b4a422c30101
+      internalID: 1188689266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_87
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 316
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53de00cbb632f62488b95d55e05af246
+      internalID: 1145972060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_88
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 316
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873d08a9f395bb14eaaa818548cd724e
+      internalID: -1183564587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_89
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 316
+        width: 95
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a366ad8922c2b4d87c31533df0d688
+      internalID: 1286917483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_90
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 316
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be3af451a64fd4ba4fa59802e6e041
+      internalID: -1816141237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_91
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 316
+        width: 94
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19935ca030a7c244eb826df0613806d0
+      internalID: -1109244786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_92
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 316
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2beeef953591d24f9d01214f4b3e637
+      internalID: 627054893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_93
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 316
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f754bc31f3dce4a98089276de6456f
+      internalID: 1023462987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_94
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 316
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102794c314b1f3945a5be0f815e40a1a
+      internalID: 75262324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_95
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 316
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7036bf290388384d96356d4d2d1b45e
+      internalID: 121427339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_96
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 316
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a20672f75a483d4f9f67bfa221a2182
+      internalID: -1442983130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_97
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 293
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5530184186582f647a2d9505f4703cca
+      internalID: 1523915285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_98
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 293
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6d1389f213dad40bd40771419fab2e
+      internalID: -102741245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_99
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee046b52bb3c5b048a2cc0412b2cba8e
+      internalID: -1348754849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 293
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9e326a68d457f4f91ac40184b6b238
+      internalID: -1130370500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_101
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 293
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c356e75bfc1572145a5df42bc2f5ea9e
+      internalID: 893321206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_102
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 293
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91f6a897beacd8499f3377e1b455727
+      internalID: 1440755244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_103
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 293
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f863e00a9cbc9a4caa9f9ff4a4549ab
+      internalID: -2051336580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_104
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 293
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1b61bdc4fcd54d879a279b218664b
+      internalID: -1241661357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_105
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 261
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd12114da9c375f42bff6493d559dc3b
+      internalID: 448374790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 261
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d29978014b56d4b922a9868797d1b4
+      internalID: -675300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_107
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 261
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128b00cafe8751a4ca225fedfc19b63f
+      internalID: -1028296143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_108
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 261
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad812c5b6cd227247a4ac56c7454c01e
+      internalID: -472084032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_109
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 261
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3473a02cf75ef49a417342c751ea93
+      internalID: -1749579731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_110
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 261
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b11352f6464f4daa41dd522f28712
+      internalID: 337186015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 260
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed14afd237169341bd7eb5e39a75356
+      internalID: -1459639722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 244
+        width: 57
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc85fd823c76754f9e6be2e5a376ad3
+      internalID: 1608195530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_113
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319f34446500e2c4f98b2aa69f7a6676
+      internalID: 83682035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 209
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142134d9917516f4486164c54c32b3a2
+      internalID: 252010884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_115
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 210
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a21e1da4a00acb48a8f9cb673fa7935
+      internalID: 1704072038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_116
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 209
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0757fe8365a834eb36b28b2bd34c84
+      internalID: 1789339797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_117
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 210
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5c078022ee1f4da2e4aff59202202
+      internalID: -241419614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_118
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 212
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a131f2a5b860c44f8f259e7536b7854
+      internalID: -908007195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_119
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 214
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49a9b7aa8093f4e93aa3da6ac07b53
+      internalID: -1940885593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_120
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 216
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4d54f727a00ae4b8a6784761988f25
+      internalID: -784693644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_122
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 187
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a13a8d94b65c24486b889b8a728204
+      internalID: -966587737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_123
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 182
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6d6ddd893b2eb40bd9444ba5e675df
+      internalID: 863757521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_124
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 178
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d740139a7c407d439c5f9fcae91a297
+      internalID: -1585866383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_125
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 175
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7282dfa921c7d304886d17fd51e44dbc
+      internalID: 1780941356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_126
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 172
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777929bee0777de428f999305fc7cb15
+      internalID: 880765842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_127
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 171
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd075d07497057e4586b7cfe872a5b89
+      internalID: 385428388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_128
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 169
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f874632ad63c24dae3ea659d2d533d
+      internalID: -489145117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_38
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 218
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5372320c87f1429b172115342e152
+      internalID: 1186352866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_40
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 219
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d169e0fc736ea48ac0be8c65d64d10
+      internalID: -1587345229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: R-Shobu_42
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 168
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c14140d55d56b43baa56e1b10158f2
+      internalID: 1902081053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      R-Shobu_0: 882100349
+      R-Shobu_1: -1112074629
+      R-Shobu_10: -1521272031
+      R-Shobu_100: -1130370500
+      R-Shobu_101: 893321206
+      R-Shobu_102: 1440755244
+      R-Shobu_103: -2051336580
+      R-Shobu_104: -1241661357
+      R-Shobu_105: 448374790
+      R-Shobu_106: -675300516
+      R-Shobu_107: -1028296143
+      R-Shobu_108: -472084032
+      R-Shobu_109: -1749579731
+      R-Shobu_11: -923244949
+      R-Shobu_110: 337186015
+      R-Shobu_111: -1459639722
+      R-Shobu_112: 1608195530
+      R-Shobu_113: 83682035
+      R-Shobu_114: 252010884
+      R-Shobu_115: 1704072038
+      R-Shobu_116: 1789339797
+      R-Shobu_117: -241419614
+      R-Shobu_118: -908007195
+      R-Shobu_119: -1940885593
+      R-Shobu_12: -328753921
+      R-Shobu_120: -784693644
+      R-Shobu_121: -785460768
+      R-Shobu_122: -966587737
+      R-Shobu_123: 863757521
+      R-Shobu_124: -1585866383
+      R-Shobu_125: 1780941356
+      R-Shobu_126: 880765842
+      R-Shobu_127: 385428388
+      R-Shobu_128: -489145117
+      R-Shobu_129: -1423075101
+      R-Shobu_13: -60392460
+      R-Shobu_130: -841572015
+      R-Shobu_131: -87651221
+      R-Shobu_14: 1233059462
+      R-Shobu_15: -857761040
+      R-Shobu_16: 1288944499
+      R-Shobu_17: -2053812997
+      R-Shobu_18: 461243751
+      R-Shobu_19: 2080588458
+      R-Shobu_2: -291343423
+      R-Shobu_20: -1666298643
+      R-Shobu_21: 1076540821
+      R-Shobu_22: 1909049218
+      R-Shobu_23: -1706330785
+      R-Shobu_24: -312683104
+      R-Shobu_25: -751450918
+      R-Shobu_26: -1198062636
+      R-Shobu_27: -111318893
+      R-Shobu_28: 520878144
+      R-Shobu_29: -1804270318
+      R-Shobu_3: -541867838
+      R-Shobu_30: 81540525
+      R-Shobu_31: 134943388
+      R-Shobu_32: -1193119100
+      R-Shobu_33: 72639619
+      R-Shobu_34: -449750608
+      R-Shobu_35: -192725467
+      R-Shobu_36: -107985011
+      R-Shobu_37: 5619284
+      R-Shobu_38: 1186352866
+      R-Shobu_39: 333654624
+      R-Shobu_4: 225434467
+      R-Shobu_40: -1587345229
+      R-Shobu_41: -1472771178
+      R-Shobu_42: 1902081053
+      R-Shobu_43: 182944432
+      R-Shobu_44: 300675292
+      R-Shobu_45: -1963488534
+      R-Shobu_46: -27508644
+      R-Shobu_47: 1152153856
+      R-Shobu_48: 1860108098
+      R-Shobu_49: 404763390
+      R-Shobu_5: -825892298
+      R-Shobu_50: -466631865
+      R-Shobu_51: -609461061
+      R-Shobu_52: -483084720
+      R-Shobu_53: 1587356786
+      R-Shobu_54: 1433284823
+      R-Shobu_55: 1304345472
+      R-Shobu_56: 1547266039
+      R-Shobu_57: 158540701
+      R-Shobu_58: 1683927498
+      R-Shobu_59: -2096648821
+      R-Shobu_6: 968247692
+      R-Shobu_60: 1835175475
+      R-Shobu_61: -774470441
+      R-Shobu_62: 65260310
+      R-Shobu_63: 623802743
+      R-Shobu_64: 1148254237
+      R-Shobu_65: 1578912663
+      R-Shobu_66: 1481360370
+      R-Shobu_67: -1774434201
+      R-Shobu_68: -1135025597
+      R-Shobu_69: 489153430
+      R-Shobu_7: 421637735
+      R-Shobu_70: -1592983229
+      R-Shobu_71: 472207752
+      R-Shobu_72: 821756608
+      R-Shobu_73: -2043397031
+      R-Shobu_74: 1491870206
+      R-Shobu_75: 9805439
+      R-Shobu_76: 1922659246
+      R-Shobu_77: 601702268
+      R-Shobu_78: -713896311
+      R-Shobu_79: 508426156
+      R-Shobu_8: 1072494416
+      R-Shobu_80: 1290037142
+      R-Shobu_81: 1290890683
+      R-Shobu_82: -1970631972
+      R-Shobu_83: -1749609201
+      R-Shobu_84: -944188057
+      R-Shobu_85: 1453092335
+      R-Shobu_86: 1188689266
+      R-Shobu_87: 1145972060
+      R-Shobu_88: -1183564587
+      R-Shobu_89: 1286917483
+      R-Shobu_9: 1752492643
+      R-Shobu_90: -1816141237
+      R-Shobu_91: -1109244786
+      R-Shobu_92: 627054893
+      R-Shobu_93: 1023462987
+      R-Shobu_94: 75262324
+      R-Shobu_95: 121427339
+      R-Shobu_96: -1442983130
+      R-Shobu_97: 1523915285
+      R-Shobu_98: -102741245
+      R-Shobu_99: -1348754849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
