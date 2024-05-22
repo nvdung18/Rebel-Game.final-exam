@@ -37,10 +37,6 @@ public class EventSpawn : MonoBehaviour
         StartCoroutine("Spawn");
     }
 
-    public void TriggerRandomCollectible() // called by other scripts to start spawning
-    {
-        StartCoroutine("RandomSpawn");
-    }
 
     private IEnumerator Spawn()
     {
@@ -49,34 +45,6 @@ public class EventSpawn : MonoBehaviour
             yield return new WaitForSeconds(spawnDelay);
             GameObject mob = Instantiate(enemyPrefab, point.position, point.rotation);
             mob.GetComponent<Health>().onDead += OnKill;
-        }
-    }
-
-    private IEnumerator RandomSpawn()
-    {
-        foreach (Transform point in spawnPoints)
-        {
-            int collectible = Random.Range(0, 4);
-            switch (collectible)
-            {
-                case 0:
-                    yield return new WaitForSeconds(spawnDelay);
-                    GameObject collectible1 = Instantiate(enemyPrefabRandom0, point.position, point.rotation);
-                    break;
-                case 1:
-                    yield return new WaitForSeconds(spawnDelay);
-                    GameObject collectible2 = Instantiate(enemyPrefabRandom1, point.position, point.rotation);
-                    break;
-                case 2:
-                    yield return new WaitForSeconds(spawnDelay);
-                    GameObject collectible3 = Instantiate(enemyPrefabRandom2, point.position, point.rotation);
-                    break;
-                default:
-                    yield return new WaitForSeconds(spawnDelay);
-                    GameObject collectible4 = Instantiate(enemyPrefabRandom3, point.position, point.rotation);
-                    break;
-            }
-           
         }
     }
 }
